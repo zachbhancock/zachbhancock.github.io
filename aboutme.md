@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zach B. Hancock
+title: About
 subtitle: Evolutionary Biologist, Writer, Science Communicator
 ---
 
