@@ -52,7 +52,7 @@ round-avatar: true
 social-network-links:
   email: "zachbhancock@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: https://github.com/zachbhancock
+  github: zachbhancock
   bluesky: @hancockzb.bsky.social
   youtube: "@talkpopgen"
 #  medium: yourname
