@@ -1,16 +1,18 @@
 ---
 layout: page
-title: Academic Publications
+title: Publications
 ---
 
-Pre-print
+# Academic (Peer-reviewed)
+
+**Pre-print**
 17. **Hancock, Z.B.** & Bradburd, G.S. (2025) sandwrm: an R package for estimating Wright's neighborhood size and species-level diversity. *In prep*.
 
 16. **Hancock, Z.B.**, Adams, N.E., Wood Jr., P.L., Bradburd, G.S. (2025). Asymmetric gene flow maintains range edges in a marine invertebrate. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.11.04.621918v2.abstract).
 
 15. Beckman, A., Hamer, S., Rosenthal, G., Brennan, L., **Hancock, Z.B.** (2024) Investigating the role of management decisions in subspecies hybridization across the wild turkey’s range. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.11.07.622462v1).
 
-Published
+**Published**
 14. **Hancock, Z.B.**, Toczydlowski, R.H., Bradburd, G.S. (2024) A spatial approach to jointly estimate Wright’s neighborhood size and long-term effective population size. Genetics, 227(4): [iyae094](https://doi.org/10.1093/genetics/iyae094).
 
 13. **Hancock, Z.B.**, Cardinale, D.S. (2024) Back to the Fundamentals: A reply to Basener & Sanford (2018). Journal of Mathematical Biology, 88(54): DOI: 10.1007/s00285-024-02077-w.
@@ -38,3 +40,7 @@ Published
 2. **Hancock, Z.B.**, Goeke, J.A., Wicksten, M.K. (2017) A sea anemone of many names: a review of the taxonomy and distribution of the invasive actiniarian Diadumene lineata (Diadumenidae), with records of its reappearance on the Texas coast. ZooKeys, 706: 1–15.
    
 1. **Hancock, Z.B.** (2017) A Walk on the Beach: Haustoriid Amphipods as Indicators of Beach Disturbance. Applied Biodiversity Science Perspective Series, 7: 13–20.
+
+# Popular Science
+
+Hancock, Z.B. (2025) [A resurected defence of beanbag genetics](https://aeon.co/essays/a-resurrected-defence-of-beanbag-genetics). *Aeon*.
