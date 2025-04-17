@@ -43,4 +43,4 @@ title: Publications
 
 # Popular Science
 
-Hancock, Z.B. (2025) [A resurected defence of beanbag genetics](https://aeon.co/essays/a-resurrected-defence-of-beanbag-genetics). *Aeon*.
+Hancock, Z.B. (2025) [A resurrected defence of beanbag genetics](https://aeon.co/essays/a-resurrected-defence-of-beanbag-genetics). *Aeon*.
