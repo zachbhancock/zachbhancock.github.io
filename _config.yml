@@ -52,8 +52,8 @@ round-avatar: true
 social-network-links:
   email: "zachbhancock@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: zachbhancock
-  bluesky: @hancockzb.bsky.social
+  github: "zachbhancock"
+  bluesky: "@hancockzb.bsky.social"
   youtube: "@talkpopgen"
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
@@ -72,7 +72,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  bluesky: yourname
 #  ORCID: your ORCID ID
-  google-scholar: https://scholar.google.com/citations?user=Pf7nBOoAAAAJ&hl=en
+  google-scholar: "https://scholar.google.com/citations?user=Pf7nBOoAAAAJ&hl=en"
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
