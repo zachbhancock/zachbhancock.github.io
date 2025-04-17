@@ -4,9 +4,9 @@ title: Academic Publications
 ---
 
 Pre-print
-17. Hancock, Z.B. & Bradburd, G.S. (2024) sandwrm: an R package for estimating Wright's neighborhood size and species-level diversity. *In prep*.
-16. Beckman, A., Hamer, S., Rosenthal, G., Brennan, L., Hancock, Z.B. (2024) Investigating the role of management decisions in subspecies hybridization across the wild turkey’s range. (bioRxiv)[https://www.biorxiv.org/content/10.1101/2024.11.07.622462v1].
-15. Hancock, Z.B., Adams, N.E., Wood Jr., P.L., Bradburd, G.S. (2025). Asymmetric gene flow maintains range edges in a marine invertebrate. (bioRxiv)[https://www.biorxiv.org/content/10.1101/2024.11.04.621918v2.abstract].
+17. Hancock, Z.B. & Bradburd, G.S. (2025) sandwrm: an R package for estimating Wright's neighborhood size and species-level diversity. *In prep*.
+16. Hancock, Z.B., Adams, N.E., Wood Jr., P.L., Bradburd, G.S. (2025). Asymmetric gene flow maintains range edges in a marine invertebrate. (bioRxiv)[https://www.biorxiv.org/content/10.1101/2024.11.04.621918v2.abstract].
+15. Beckman, A., Hamer, S., Rosenthal, G., Brennan, L., Hancock, Z.B. (2024) Investigating the role of management decisions in subspecies hybridization across the wild turkey’s range. (bioRxiv)[https://www.biorxiv.org/content/10.1101/2024.11.07.622462v1].
 
 Published
 14. Hancock, Z.B., Toczydlowski, R.H., Bradburd, G.S. (2024) A spatial approach to jointly estimate Wright’s neighborhood size and long-term effective population size. Genetics, 227(4): (iyae094)[https://doi.org/10.1093/genetics/iyae094].
